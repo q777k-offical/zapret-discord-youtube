@@ -24,6 +24,7 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 cloudfront.net
+help.soundcloud.com
 api-v2.soundcloud.com
 dis.gd
 discord-attachments-uploads-prd.storage.googleapis.com
