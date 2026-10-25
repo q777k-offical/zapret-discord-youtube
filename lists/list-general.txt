@@ -27,6 +27,7 @@ cloudfront.net
 help.soundcloud.com
 api.soundcloud.com
 api-v2.soundcloud.com
+use.fontawesome.com
 dis.gd
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.app
